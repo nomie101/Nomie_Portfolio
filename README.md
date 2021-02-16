@@ -1,4 +1,4 @@
-## Nomie_Portfolio
+# Nomie_Portfolio
 Nomie's Data science Portfolio
 
 # [Project 1:Python for Everybody|The Complete Course Practice ](https://github.com/nomie101/python_project_practice)
